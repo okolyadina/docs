@@ -6,7 +6,5 @@
 ## Тест-кейсы
 [qase](https://app.qase.io/project/G9?previewMode=side&suite=54&tab=)
 
-#### Файл PDF
-```http
-/qase/testcase/G9-test_case.pdf
-```
+#### Файл PDF 
+[тест кейсы](https://github.com/okolyadina/docs/blob/main/qase/testcase/G9-test_case.pdf)
