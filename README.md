@@ -8,3 +8,8 @@
 
 #### Файл PDF 
 [тест кейсы](https://github.com/okolyadina/docs/blob/main/qase/testcase/G9-test_case.pdf)
+
+## Отчеты о дефектах
+[test run 23.12.2024](https://github.com/okolyadina/docs/blob/main/youtrack/defect_report.xlsx)
+
+[defect report](https://github.com/okolyadina/docs/blob/main/qase/testrun/G9-Test_run_2024_12_23.pdf)
